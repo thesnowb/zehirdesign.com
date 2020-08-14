@@ -1,2 +1,2 @@
-# zehirdesign.com
+# zehirdesign.github.io
 Site 1
